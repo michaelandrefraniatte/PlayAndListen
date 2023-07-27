@@ -1,0 +1,11 @@
+For server-client connection :
+- In Windows firewall, the client needs an outbound rule allowing distant internal IP of server in TCP (10.0.0.13)
+- In Windows firewall, the server needs an inbound rule allowing distant internal IP of client in TCP (10.0.0.11)
+- The network connection must be set to private
+- It don't need rules under your modem/router firewall
+
+For starting :
+- If you don't want to ear audio on server, you can wire a simple jack without nothing connected to it, or simply shut down completely sound on server
+- To start and close properly, start first the server, then the client, and the reverse for close
+- Don't allow your client screen shut down under Windows properties
+
