@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\micha\\Documents\\github\\PlayAndListenOfficial\\Src\\AlwaysTogether\\user2\\AlwaysTogether\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B38136A-A6E4-40DB-B20F-E788B0569843}|AlwaysTogether\\AlwaysTogether.csproj|c:\\users\\micha\\documents\\github\\playandlistenofficial\\src\\alwaystogether\\user2\\alwaystogether\\alwaystogether\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B38136A-A6E4-40DB-B20F-E788B0569843}|AlwaysTogether\\AlwaysTogether.csproj|solutionrelative:alwaystogether\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B38136A-A6E4-40DB-B20F-E788B0569843}|AlwaysTogether\\AlwaysTogether.csproj|c:\\users\\micha\\documents\\github\\playandlistenofficial\\src\\alwaystogether\\user2\\alwaystogether\\alwaystogether\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B38136A-A6E4-40DB-B20F-E788B0569843}|AlwaysTogether\\AlwaysTogether.csproj|solutionrelative:alwaystogether\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Documents\\github\\PlayAndListenOfficial\\Src\\AlwaysTogether\\user2\\AlwaysTogether\\AlwaysTogether\\Form1.cs",
+              "RelativeDocumentMoniker": "AlwaysTogether\\Form1.cs",
+              "ToolTip": "C:\\Users\\micha\\Documents\\github\\PlayAndListenOfficial\\Src\\AlwaysTogether\\user2\\AlwaysTogether\\AlwaysTogether\\Form1.cs",
+              "RelativeToolTip": "AlwaysTogether\\Form1.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAswD8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T23:06:21.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\micha\\Documents\\github\\PlayAndListenOfficial\\Src\\AlwaysTogether\\user2\\AlwaysTogether\\AlwaysTogether\\Form1.cs",
+              "RelativeDocumentMoniker": "AlwaysTogether\\Form1.cs",
+              "ToolTip": "C:\\Users\\micha\\Documents\\github\\PlayAndListenOfficial\\Src\\AlwaysTogether\\user2\\AlwaysTogether\\AlwaysTogether\\Form1.cs [Design]",
+              "RelativeToolTip": "AlwaysTogether\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T23:06:13.92Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

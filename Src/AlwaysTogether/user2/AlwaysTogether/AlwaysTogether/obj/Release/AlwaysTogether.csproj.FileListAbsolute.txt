@@ -37,3 +37,16 @@ C:\Users\micha\Documents\Perso\tool\Remote\AlwaysTogether\Src\user2\AlwaysTogeth
 C:\Users\micha\Documents\Perso\tool\Remote\AlwaysTogether\Src\user2\AlwaysTogether\AlwaysTogether\obj\Release\AlwaysTogether.csproj.CopyComplete
 C:\Users\micha\Documents\Perso\tool\Remote\AlwaysTogether\Src\user2\AlwaysTogether\AlwaysTogether\obj\Release\AlwaysTogether.exe
 C:\Users\micha\Documents\Perso\tool\Remote\AlwaysTogether\Src\user2\AlwaysTogether\AlwaysTogether\obj\Release\AlwaysTogether.pdb
+C:\Users\micha\Documents\github\PlayAndListenOfficial\Src\AlwaysTogether\user2\AlwaysTogether\AlwaysTogether\bin\Release\AlwaysTogether.exe.config
+C:\Users\micha\Documents\github\PlayAndListenOfficial\Src\AlwaysTogether\user2\AlwaysTogether\AlwaysTogether\bin\Release\AlwaysTogether.exe
+C:\Users\micha\Documents\github\PlayAndListenOfficial\Src\AlwaysTogether\user2\AlwaysTogether\AlwaysTogether\bin\Release\AlwaysTogether.pdb
+C:\Users\micha\Documents\github\PlayAndListenOfficial\Src\AlwaysTogether\user2\AlwaysTogether\AlwaysTogether\obj\Release\AlwaysTogether.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\github\PlayAndListenOfficial\Src\AlwaysTogether\user2\AlwaysTogether\AlwaysTogether\obj\Release\AlwaysTogether.csproj.SuggestedBindingRedirects.cache
+C:\Users\micha\Documents\github\PlayAndListenOfficial\Src\AlwaysTogether\user2\AlwaysTogether\AlwaysTogether\obj\Release\AlwaysTogether.exe.config
+C:\Users\micha\Documents\github\PlayAndListenOfficial\Src\AlwaysTogether\user2\AlwaysTogether\AlwaysTogether\obj\Release\AlwaysTogether.Form1.resources
+C:\Users\micha\Documents\github\PlayAndListenOfficial\Src\AlwaysTogether\user2\AlwaysTogether\AlwaysTogether\obj\Release\AlwaysTogether.Properties.Resources.resources
+C:\Users\micha\Documents\github\PlayAndListenOfficial\Src\AlwaysTogether\user2\AlwaysTogether\AlwaysTogether\obj\Release\AlwaysTogether.csproj.GenerateResource.cache
+C:\Users\micha\Documents\github\PlayAndListenOfficial\Src\AlwaysTogether\user2\AlwaysTogether\AlwaysTogether\obj\Release\AlwaysTogether.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\github\PlayAndListenOfficial\Src\AlwaysTogether\user2\AlwaysTogether\AlwaysTogether\obj\Release\AlwaysTo.40709F09.Up2Date
+C:\Users\micha\Documents\github\PlayAndListenOfficial\Src\AlwaysTogether\user2\AlwaysTogether\AlwaysTogether\obj\Release\AlwaysTogether.exe
+C:\Users\micha\Documents\github\PlayAndListenOfficial\Src\AlwaysTogether\user2\AlwaysTogether\AlwaysTogether\obj\Release\AlwaysTogether.pdb

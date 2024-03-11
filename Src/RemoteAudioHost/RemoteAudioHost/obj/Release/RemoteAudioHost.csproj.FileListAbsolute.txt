@@ -11,3 +11,16 @@ C:\Users\micha\Documents\Perso\tool\RemoteAudio\Src\RemoteAudioHost\RemoteAudioH
 C:\Users\micha\Documents\Perso\tool\RemoteAudio\Src\RemoteAudioHost\RemoteAudioHost\obj\Release\RemoteAudioHost.csproj.CopyComplete
 C:\Users\micha\Documents\Perso\tool\RemoteAudio\Src\RemoteAudioHost\RemoteAudioHost\obj\Release\RemoteAudioHost.exe
 C:\Users\micha\Documents\Perso\tool\RemoteAudio\Src\RemoteAudioHost\RemoteAudioHost\obj\Release\RemoteAudioHost.pdb
+C:\Users\micha\Documents\github\PlayAndListenOfficial\Src\RemoteAudioHost\RemoteAudioHost\bin\Release\RemoteAudioHost.exe.config
+C:\Users\micha\Documents\github\PlayAndListenOfficial\Src\RemoteAudioHost\RemoteAudioHost\bin\Release\RemoteAudioHost.exe
+C:\Users\micha\Documents\github\PlayAndListenOfficial\Src\RemoteAudioHost\RemoteAudioHost\bin\Release\RemoteAudioHost.pdb
+C:\Users\micha\Documents\github\PlayAndListenOfficial\Src\RemoteAudioHost\RemoteAudioHost\obj\Release\RemoteAudioHost.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\github\PlayAndListenOfficial\Src\RemoteAudioHost\RemoteAudioHost\obj\Release\RemoteAudioHost.csproj.SuggestedBindingRedirects.cache
+C:\Users\micha\Documents\github\PlayAndListenOfficial\Src\RemoteAudioHost\RemoteAudioHost\obj\Release\RemoteAudioHost.exe.config
+C:\Users\micha\Documents\github\PlayAndListenOfficial\Src\RemoteAudioHost\RemoteAudioHost\obj\Release\RemoteAudioHost.Form1.resources
+C:\Users\micha\Documents\github\PlayAndListenOfficial\Src\RemoteAudioHost\RemoteAudioHost\obj\Release\RemoteAudioHost.Properties.Resources.resources
+C:\Users\micha\Documents\github\PlayAndListenOfficial\Src\RemoteAudioHost\RemoteAudioHost\obj\Release\RemoteAudioHost.csproj.GenerateResource.cache
+C:\Users\micha\Documents\github\PlayAndListenOfficial\Src\RemoteAudioHost\RemoteAudioHost\obj\Release\RemoteAudioHost.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\github\PlayAndListenOfficial\Src\RemoteAudioHost\RemoteAudioHost\obj\Release\RemoteAu.96B2DBB5.Up2Date
+C:\Users\micha\Documents\github\PlayAndListenOfficial\Src\RemoteAudioHost\RemoteAudioHost\obj\Release\RemoteAudioHost.exe
+C:\Users\micha\Documents\github\PlayAndListenOfficial\Src\RemoteAudioHost\RemoteAudioHost\obj\Release\RemoteAudioHost.pdb

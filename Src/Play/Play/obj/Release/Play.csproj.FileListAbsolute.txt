@@ -82,3 +82,16 @@ C:\Users\micha\Documents\Perso\tool\PlayAndListen\Src\Play\Play\obj\Release\Play
 C:\Users\micha\Documents\Perso\tool\PlayAndListen\Src\Play\Play\obj\Release\Play.csproj.CopyComplete
 C:\Users\micha\Documents\Perso\tool\PlayAndListen\Src\Play\Play\obj\Release\Play.exe
 C:\Users\micha\Documents\Perso\tool\PlayAndListen\Src\Play\Play\obj\Release\Play.pdb
+C:\Users\micha\Documents\github\PlayAndListenOfficial\Src\Play\Play\bin\Release\Play.exe.config
+C:\Users\micha\Documents\github\PlayAndListenOfficial\Src\Play\Play\bin\Release\Play.exe
+C:\Users\micha\Documents\github\PlayAndListenOfficial\Src\Play\Play\bin\Release\Play.pdb
+C:\Users\micha\Documents\github\PlayAndListenOfficial\Src\Play\Play\bin\Release\NAudio.xml
+C:\Users\micha\Documents\github\PlayAndListenOfficial\Src\Play\Play\bin\Release\websocket-sharp.xml
+C:\Users\micha\Documents\github\PlayAndListenOfficial\Src\Play\Play\obj\Release\Play.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\github\PlayAndListenOfficial\Src\Play\Play\obj\Release\Play.Form1.resources
+C:\Users\micha\Documents\github\PlayAndListenOfficial\Src\Play\Play\obj\Release\Play.Properties.Resources.resources
+C:\Users\micha\Documents\github\PlayAndListenOfficial\Src\Play\Play\obj\Release\Play.csproj.GenerateResource.cache
+C:\Users\micha\Documents\github\PlayAndListenOfficial\Src\Play\Play\obj\Release\Play.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\github\PlayAndListenOfficial\Src\Play\Play\obj\Release\Play.csproj.Up2Date
+C:\Users\micha\Documents\github\PlayAndListenOfficial\Src\Play\Play\obj\Release\Play.exe
+C:\Users\micha\Documents\github\PlayAndListenOfficial\Src\Play\Play\obj\Release\Play.pdb
